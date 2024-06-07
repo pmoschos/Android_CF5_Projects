@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/uploadItem"
+        android:title="Upload"
+        android:icon="@drawable/ic_upload"
+        android:enabled="true"
+        android:iconTint="@color/purple_700"
+        />
+
+    <item android:id="@+id/postItem"
+        android:title="Posts"
+        android:icon="@drawable/ic_post"
+        android:enabled="true"
+        android:iconTint="@color/purple_700"
+        />
+
+    <item android:id="@+id/homeItem"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:enabled="true"
+        android:iconTint="@color/purple_700"
+        />
+
+    <item android:id="@+id/favoriteItem"
+        android:title="Favorites"
+        android:icon="@drawable/ic_favorite"
+        android:enabled="true"
+        android:iconTint="@color/purple_700"
+        />
+
+    <item android:id="@+id/profileItem"
+        android:title="Profile"
+        android:icon="@drawable/ic_person"
+        android:enabled="true"
+        android:iconTint="@color/purple_700"
+        />
+
+
+</menu>

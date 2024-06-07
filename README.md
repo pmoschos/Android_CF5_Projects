@@ -1,6 +1,6 @@
 # Android Projects 📱
 
-![Total Views](https://views.whatilearened.today/views/github/yourusername/android-projects.svg) ![Java](https://img.shields.io/badge/language-Java-orange.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/android-projects) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/android-projects.svg) ![Java](https://img.shields.io/badge/language-Java-orange.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/android-projects) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Overview 🌟
 Welcome to the Android Projects repository, a curated collection of Android applications and components crafted specifically for educators and students. This repository serves as a resource for those aiming to master Android development through hands-on, practical examples and projects.

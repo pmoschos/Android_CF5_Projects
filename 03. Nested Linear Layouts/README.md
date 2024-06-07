@@ -13,6 +13,9 @@ This repository contains a single XML layout file that can be used as a template
   - A `TextView` displaying "Coding Factory"
   - Multiple `LinearLayout` elements, each containing buttons for different programming languages
 
+## 📸 Screenshot
+![image](https://github.com/pmoschos/NestedLinearLayouts/assets/133533759/101471a2-4d93-45ff-9032-9abc90eef128)
+
 ## XML Layout Preview 📄
 
 ```xml

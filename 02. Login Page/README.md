@@ -1,5 +1,7 @@
 # Login Page
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/android-projects.svg) ![Java](https://img.shields.io/badge/language-Java-orange.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/Android_CF5_Projects) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## Project Overview 🌟
 Welcome to LoginDemoAppCF4, an Android application that demonstrates basic login functionality. This README focuses on the `MainActivity` class, which is responsible for managing user authentication.
 

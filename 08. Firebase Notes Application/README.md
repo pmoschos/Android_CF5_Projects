@@ -1,5 +1,7 @@
 # Android Notes Application 📝
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/android-projects.svg) ![Java](https://img.shields.io/badge/language-Java-orange.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/Android_CF5_Projects) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## Overview 🌟
 This Android application allows users to create, manage, and store notes. Featuring user authentication, the app ensures that only registered users can access their personalized notes. The application emphasizes both functionality and user experience, making note-taking and management seamless.
 

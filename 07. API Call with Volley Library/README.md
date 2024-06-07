@@ -1,5 +1,7 @@
 # Movie Search - Anroid Application 🎥
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/android-projects.svg) ![Java](https://img.shields.io/badge/language-Java-orange.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/Android_CF5_Projects) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## Overview 🌟
 This Android application allows users to search for movies. Utilizing the IMDb API, it fetches and displays information about movies. Users can enter a movie title in the search field, and the app presents a list of relevant movies, complete with details like title, description, and image.
 

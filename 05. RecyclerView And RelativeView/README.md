@@ -1,5 +1,7 @@
 # 🎬 Android Movie List App
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/android-projects.svg) ![Java](https://img.shields.io/badge/language-Java-orange.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/Android_CF5_Projects) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## 📝 Description
 The Android Movie List App is an advanced mobile application designed for movie enthusiasts. It elegantly displays a curated list of movies, offering an immersive and interactive user experience. The app is developed using cutting-edge technologies in Android Studio, emphasizing both functionality and aesthetics.
 

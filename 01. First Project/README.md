@@ -1,5 +1,7 @@
 # My First Project
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/android-projects.svg) ![Java](https://img.shields.io/badge/language-Java-orange.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/Android_CF5_Projects) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## Project Overview 🌟
 Welcome to MyFirstProject2024a, an Android application designed to demonstrate basic navigation between activities. This README focuses on the `MainActivity`, `Second2Activity`, and `FavoriteActivity` classes, which manage user interactions and navigation.
 
